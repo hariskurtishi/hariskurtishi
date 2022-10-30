@@ -1,4 +1,3 @@
-### <div align="center">I'm Haris, a front-end developer </div>  
 
 # 💫 About Me:
 I’m a Frontend Developer specializing in building (and occasionally designing) eye-catching digital experiences.<br><br>I've also built a couple of full stack apps just for fun.
