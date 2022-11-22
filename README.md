@@ -1,6 +1,4 @@
-Hello there! I’m Haris Kurtishi
-Frontend Developer.
-Specializing in building (and occasionally designing) eye-catching digital experiences.
+Hello there! I’m Haris Kurtishi <br> Frontend Developer. <br>Specializing in building (and occasionally designing) eye-catching digital experiences. 
 
 
 ##### TL;DR
