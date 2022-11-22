@@ -1,7 +1,7 @@
-
-### Hiya, I'm Tashinga *(/ˈta/ʃɪn/nɡʌ/)* (him/he) 👨🏿‍🦲😊
-
-#### I'm a Full-Stack JavaScript Developer living in Cape Town, ZA.
+Hello there! I’m Haris Kurtishi
+Frontend Developer.
+Specializing in building (and occasionally designing) eye-catching digital experiences.
+I've also worked on full stack proejcts.
 
 
 ##### TL;DR
