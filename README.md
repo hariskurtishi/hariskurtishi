@@ -1,7 +1,7 @@
 Hello there! I’m Haris Kurtishi <br> Frontend Developer. <br>Specializing in building (and occasionally designing) eye-catching digital experiences. 
 
 
-##### TL;DR
+
 
 - 🏢 Currently working as a **Freelancer**
 - ⚙️ My stack: `react.js`, `next.js`, `typescript`, `tailwind`,  `Material UI`, `css`, `figma`,  `Sanity CMS`,  `Prismic CMS`.
